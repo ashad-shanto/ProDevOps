@@ -27,7 +27,7 @@ namespace ProDevOps.WebService
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World! ProDevOps CI/CD 6-dev-merge-master");
+                await context.Response.WriteAsync("Hello World! ProDevOps CI/CD 7-dev-merge-master");
             });
         }
     }
