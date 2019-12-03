@@ -1,0 +1,135 @@
+{
+  "ProDevOps.WebService.dll": {
+    "E:\\WorkSpace\\Net\\aspnetcore\\ProDevOpsCust\\src\\ProDevOps.WebService\\Program.cs": {
+      "ProDevOps.WebService.Program": {
+        "System.Void ProDevOps.WebService.Program::Main(System.String[])": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Hosting.IWebHostBuilder ProDevOps.WebService.Program::CreateWebHostBuilder(System.String[])": {
+          "Lines": {
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "E:\\WorkSpace\\Net\\aspnetcore\\ProDevOpsCust\\src\\ProDevOps.WebService\\Startup.cs": {
+      "ProDevOps.WebService.Startup": {
+        "System.Void ProDevOps.WebService.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void ProDevOps.WebService.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 9,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 27,
+              "EndOffset": 52,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "ProDevOps.WebService.Startup/<>c/<<Configure>b__1_0>d": {
+        "System.Void ProDevOps.WebService.Startup/<>c/<<Configure>b__1_0>d::MoveNext()": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 8,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 58,
+              "EndOffset": 60,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 8,
+              "EndOffset": 96,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 58,
+              "EndOffset": 124,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "E:\\WorkSpace\\Net\\aspnetcore\\ProDevOpsCust\\src\\ProDevOps.WebService\\Controller\\DOController.cs": {
+      "ProDevOps.WebService.Controller.DOController": {
+        "System.Int32 ProDevOps.WebService.Controller.DOController::GetRandomNumber()": {
+          "Lines": {
+            "10": 1,
+            "11": 1,
+            "12": 1,
+            "13": 1,
+            "14": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
