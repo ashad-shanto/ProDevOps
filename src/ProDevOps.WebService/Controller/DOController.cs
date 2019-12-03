@@ -12,5 +12,11 @@ namespace ProDevOps.WebService.Controller
             int rangedNumber = random.Next(0,100);
             return rangedNumber;
         }
+
+        [HttpGet]
+        public int UnTestedFunction() 
+        {
+            return 0;
+        }
     }
 }
