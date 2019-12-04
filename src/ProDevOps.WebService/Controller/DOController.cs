@@ -9,7 +9,7 @@ namespace ProDevOps.WebService.Controller
         public int GetRandomNumber() 
         {
             Random random = new Random();
-            int rangedNumber = random.Next(0,100);
+            int rangedNumber = random.Next(101,200);
             return rangedNumber;
         }
 
